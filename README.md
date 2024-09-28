@@ -5,13 +5,10 @@
   <img src="https://drive.google.com/uc?export=view&id=1C35KBRvDlk2DGKxAxTuPKa3PZIK5oR58"/>
 </div>
 
-### <div align="center">I´m a novice Fullstack Web Developer from Rosario, Argentina, with a great passion for web development and for writing clean, best-practices-adjusting code!</div>
+### <div align="center">I´m a Junior Salesforce Developer from Rosario, Argentina, with a great passion for software development and for writing clean, best-practices-adjusting code!</div>
 
 
-- 🔭 I’m currently looking for Junior Fullstack, Frontend or Backend positions
-
-
-- 🌱 I’m currently learning Java
+- 🌱 I’m fluent in Javascript, Java, and Apex
 
 
 - ❓ You can Email Me Through [Here](mailto:ezequielcachi@gmail.com)
