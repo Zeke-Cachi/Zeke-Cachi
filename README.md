@@ -5,7 +5,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1C35KBRvDlk2DGKxAxTuPKa3PZIK5oR58"/>
 </div>
 
-### <div align="center">I´m a Junior Salesforce Developer from Rosario, Argentina, with a great passion for software development and for writing clean, best-practices-adjusting code!</div>
+### <div align="center">I´m a Salesforce Developer from Rosario, Argentina, with a great passion for software development and for writing clean, best-practices-adjusting code!</div>
 
 
 - 🌱 I’m fluent in Javascript, Java, and Apex
